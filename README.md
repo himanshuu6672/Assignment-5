@@ -38,26 +38,6 @@ elements.
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
-
-1.  Clone this repository:
-
-    ``` bash
-    git clone https://github.com/himanshuu6672/Assignment-5.git
-    ```
-
-2.  Navigate into the folder:
-
-    ``` bash
-    cd Assignment-5
-    ```
-
-3.  Run the scripts:
-
-    ``` bash
-    python Task\ 1.py
-    python Task\ 2.py
-    ```
 
 ------------------------------------------------------------------------
 
